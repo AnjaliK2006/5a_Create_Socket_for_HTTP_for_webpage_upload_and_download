@@ -60,7 +60,7 @@ To write a PYTHON program for socket for HTTP for web page upload and download
 ## OUTPUT
 
 
-![image](https://github.com/user-attachments/assets/f5088da0-a632-4280-ae15-af36c76fe78b)
+![image](https://github.com/user-attachments/assets/a2f19de2-67d2-4d6c-8a30-30f0e4d2615b)
 
 
 
